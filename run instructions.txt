@@ -1,0 +1,8 @@
+1. Open anaconda command prompt.
+2. change directory path to project folder.
+3. run following command- 
+	python run.py
+4. install any missing module.
+5.once all modules are installed, go to browser, and type localhost:5000/
+
+thanks.
